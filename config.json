@@ -89,5 +89,9 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "suoni"
     }
+    "taopian": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片网"
+    }
   }
 }
